@@ -1,0 +1,16 @@
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/Storyboarding.exe
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/Storyboarding.pdb
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/ManagedBass.dll
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/MonoGame.Framework.dll
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/MonoGame.Framework.xml
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/ManagedBass.xml
+/Users/josepuma/Projects/Storyboarding/Storyboarding/obj/Debug/Storyboarding.csproj.CoreCompileInputs.cache
+/Users/josepuma/Projects/Storyboarding/Storyboarding/obj/Debug/Storyboarding.csproj.CopyComplete
+/Users/josepuma/Projects/Storyboarding/Storyboarding/obj/Debug/Storyboarding.exe
+/Users/josepuma/Projects/Storyboarding/Storyboarding/obj/Debug/Storyboarding.pdb
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/Cyotek.Drawing.BitmapFont.dll
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/FontStashSharp.MonoGame.dll
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/StbImageSharp.dll
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/StbTrueTypeSharp.dll
+/Users/josepuma/Projects/Storyboarding/Storyboarding/bin/Debug/Cyotek.Drawing.BitmapFont.xml
+/Users/josepuma/Projects/Storyboarding/Storyboarding/obj/Debug/Storyboarding.csprojAssemblyReference.cache

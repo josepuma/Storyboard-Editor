@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storyboarding", "Storyboarding\Storyboarding.csproj", "{37B6C00F-C9BA-44CA-94E8-60C5BDEC1BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B6C00F-C9BA-44CA-94E8-60C5BDEC1BE7}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{37B6C00F-C9BA-44CA-94E8-60C5BDEC1BE7}.Debug|anycpu.Build.0 = Debug|anycpu
+		{37B6C00F-C9BA-44CA-94E8-60C5BDEC1BE7}.Release|anycpu.ActiveCfg = Release|anycpu
+		{37B6C00F-C9BA-44CA-94E8-60C5BDEC1BE7}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91A2F75B-0428-49AB-8250-AE43C1BC25EA}
+	EndGlobalSection
+EndGlobal

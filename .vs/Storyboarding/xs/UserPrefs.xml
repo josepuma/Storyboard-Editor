@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{37B6C00F-C9BA-44CA-94E8-60C5BDEC1BE7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Storyboarding/osu/StoryboardParser.cs">
+    <Files>
+      <File FileName="Storyboarding/Program.cs" Line="13" Column="1" />
+      <File FileName="Storyboarding/Animation/BaseGame.cs" Line="149" Column="62" />
+      <File FileName="Storyboarding/Emitters/Sprite.cs" Line="93" Column="1" />
+      <File FileName="Storyboarding/Emitters/TextureHandler.cs" Line="22" Column="1" />
+      <File FileName="Storyboarding/osu/StoryboardParser.cs" Line="73" Column="29" />
+      <File FileName="Storyboarding/Core/Camera.cs" Line="2" Column="31" />
+      <File FileName="Storyboarding/Emitters/SpriteBase.cs" Line="1" Column="1" />
+      <File FileName="Storyboarding/Emitters/StoryboardEmitter.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Storyboarding" expanded="True">
+            <Node name="Storyboarding" expanded="True">
+              <Node name="Animation" expanded="True" />
+              <Node name="Core" expanded="True" />
+              <Node name="Emitters" expanded="True">
+                <Node name="Effects" expanded="True">
+                  <Node name="SparkleEffect" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="osu" expanded="True">
+                <Node name="StoryboardParser.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Storyboarding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
